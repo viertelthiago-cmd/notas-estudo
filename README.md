@@ -6,3 +6,13 @@ markdown
 
 ## Configurando Git
 
+```bash
+git config --global
+```
+## Como Configurar GitHub
+
+## SSH - Como configurar a maquina
+
+## Como criar um repositório
+
+gjhjhgkagdjkgdfjagkj
