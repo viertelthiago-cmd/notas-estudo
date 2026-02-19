@@ -8,12 +8,9 @@ markdown
 
 ```bash
 git config --global
-
+```
 ## Como Configurar GitHub
 
 ## SSH - Como configurar a maquina
 
-## Como criar um repositório
-
-gjhjhgkagdjkgdfjagkj
-```
+## Como criar um repositóri
